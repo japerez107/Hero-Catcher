@@ -1,0 +1,77 @@
+body {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.6),rgba(0, 0, 0, 0.6)), url("../images/marvel-logo.jpg");   
+    background-repeat: repeat; 
+};  
+
+.container {
+    /* width: 100%;
+    max-width: 960px; */
+    margin: 0 auto;
+    clear: both;
+
+} 
+
+.carousel {
+    position: relative;
+    top: 210;
+    display: block;
+  
+}
+
+.d-block {
+    margin: auto
+}
+
+#myCarousel {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+h1{
+    font-weight: bolder;
+}
+.jumbotron{
+    /* padding: 2rem 1rem;
+    margin-bottom: 2rem; */
+    background-color:#b11414;
+    text-align: center;
+    color: white
+   
+    /* border-radius: 0.3rem; */
+  }
+.card-body{
+    padding-bottom: 0px;
+}
+  #searchstyle{
+      background-color:#b11414;
+      color: white;
+  }
+label{
+    margin-left: 15px;
+}
+.btnstyle{
+    background-color: #b11414;
+    color: white;
+}
+
+.col-sm-3 {
+    background-color: black;
+    opacity: 0.8;
+    padding: 5px;
+    text-align: center;
+    margin: 10px;
+    margin-left: 65px;
+    font-size: 15px;
+    z-index: 80;
+    color:white;
+    overflow: hidden;
+    display: inline-block;
+
+
+};
+.music {
+    float: right;
+    margin-top: 250px;
+};
