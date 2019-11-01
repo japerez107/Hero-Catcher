@@ -1,4 +1,4 @@
-# project-1 
+# Hero Catcher 
 
 **Title: Hero Catcher**
 
@@ -43,7 +43,7 @@ Through our site, users will be able to acquire and review character information
  
 **Functionality (DEMO)**
 
-https://japerez107.github.io/project-1/
+https://japerez107.github.io/Hero-Catcher/
 
 
 
